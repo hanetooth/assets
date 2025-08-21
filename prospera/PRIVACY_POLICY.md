@@ -24,7 +24,7 @@ We use your information to:
 - Provide financial tracking and management services
 - Store and display your financial records
 - Enable secure authentication via biometric features
-- Backup and restore your data (when you choose to enable it)
+- Backup and restore your data on your own cloud back which only you can access (when you choose to enable it)
 - Improve app functionality and user experience
 
 ## Data Storage and Security
